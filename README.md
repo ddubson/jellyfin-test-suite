@@ -7,6 +7,15 @@
 * [ ] Add CI for running all app tests
 * [ ] Don't use demo server for tests
 
+## Current test suite support
+
+<details>
+   <summary>Jellyfin Web client (`apps/jellyfin-web`)</summary>
+   
+   Tested web browsers:
+   - Firefox
+</details>
+
 ## Running a test suite
 
 ```sh
